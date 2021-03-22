@@ -1,7 +1,7 @@
 <?php
 /*
 	Question2Answer by Gideon Greenspan and contributors
-	http://www.question2answer.org/ & http://www.turksdesk.org
+	http://www.question2answer.org/ & http://www.pirsname.com
 
 	Description: Language phrases commonly used throughout Q2A
 
